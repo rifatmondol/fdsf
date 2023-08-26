@@ -323,11 +323,11 @@ li.nav-item:last-child{
 }
 .slider-nav {
     position: relative;
-    max-width: 1140px;
+    max-width: 1150px;
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
-    transform: translateY(-244px);
+    transform: translateY(-245px);
 }
 .swiper-button-prev{
     left:0px!important;
@@ -382,4 +382,12 @@ span.swiper-pagination-bullet.swiper-pagination-bullet-active {
 .footer-top .copyright p{
     font-size: 12px;
     color: #b2b2b2;;
+}
+
+
+@media only screen and (min-width:1920px){
+    .user-login {
+        position: relative;
+        margin-right: 0!important;
+    }
 }
