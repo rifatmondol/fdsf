@@ -191,6 +191,7 @@ li.nav-item:last-child{
 }
 
 .banner-right-main a:hover, .procedure-item-1 a:hover{
+    color: #fff;
     opacity: 0.7!important;
 }
 /* Procedure CSS*/
