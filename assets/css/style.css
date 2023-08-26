@@ -323,7 +323,7 @@ li.nav-item:last-child{
 }
 .slider-nav {
     position: relative;
-    width: 85.3%;
+    max-width: 1140px;
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
